@@ -1,0 +1,17 @@
+# data, weights and runs are not committed
+data/
+datasets/
+runs/
+weights/*.pt
+*.pt
+*.mp4
+*.avi
+*.zip
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+.DS_Store
